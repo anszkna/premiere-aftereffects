@@ -8,7 +8,7 @@ this is my to-do task for finishing my opus. can I continue to record my develop
 
 ○animationtopics
 
-#2022/12/23
+# 2022/12/23
 ●retake
 
 ○cut
