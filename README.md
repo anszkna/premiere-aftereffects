@@ -8,6 +8,10 @@ this is my to-do task for finishing my opus. can I continue to record my develop
 
 maybe I've to retake...;(
 
+○animation
+
+○caption 
+
 # 2022/12/23
 ●retake
 
