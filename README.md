@@ -8,7 +8,7 @@ this is my to-do task for finishing my opus. can I continue to record my develop
 
 ●bitedit
 
-have to end my opes in 2wk
+have to end my opes in a-wk
 
 # 2022/12/24
 ●cut 
