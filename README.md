@@ -6,7 +6,9 @@ this is my to-do task for finishing my opus. can I continue to record my develop
 
 ●newtake
 
-○bitedit
+●bitedit
+
+have to end my opes in 2wk
 
 # 2022/12/24
 ●cut 
